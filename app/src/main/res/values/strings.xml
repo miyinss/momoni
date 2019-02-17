@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">momoni</string>
+    <string name="app_sou">请输入想要搜索的商品名称</string>
+</resources>
